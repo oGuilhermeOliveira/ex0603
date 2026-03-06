@@ -15,6 +15,6 @@ app.get("/idade/:nome/:idade", (req, res) => {
     });
   });
   
-app.listen(3023, (res)=> {
+app.listen(3012, (res)=> {
     console.log('Guilherme o server está on');
 });

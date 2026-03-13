@@ -15,6 +15,6 @@ app.get("/idade/:nome/:idade", (req, res) => {
     });
   });
   
-app.listen(3004, (res)=> {
-    console.log('Ryan o server está on');
+app.listen(3005, (res)=> {
+    console.log('Ryan Bergstron o server está on');
 });
